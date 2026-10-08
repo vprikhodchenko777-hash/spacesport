@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="spacesport/spacesport.vcxproj" />
+  <Project Path="spacesport/spacesport.vcxproj" Id="c750ce43-ae74-4acb-a796-77ff165003f5" />
 </Solution>

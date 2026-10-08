@@ -4,18 +4,20 @@ using namespace std;
 
 void printTitle()
 {
-    cout << "=== ТАВЕРНА ===" << endl;
+    cout << "=== Go to Spaceport ===" << endl;
 }
 
 void printStatus()
 {
-    // TODO Collaborator
+	cout << "Status: All systems are operational." << endl;
 }
 
 void printCrew()
 {
-    // TODO Owner
+    cout << "Crew: John Doe, Jane Smith, Bob Johnson" << endl;
+	cout << "Mission: Explore the galaxy and discover new planets." << endl;
 }
+
 
 int main()
 {

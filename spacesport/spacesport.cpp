@@ -4,18 +4,21 @@ using namespace std;
 
 void printTitle()
 {
-    cout << "=== ТАВЕРНА ===" << endl;
-}
-
-void printStatus()
-{
-    // TODO Collaborator
+    std::cout << "=========================" << std::endl;
+    std::cout << "           TITLE         " << std::endl;
+    std::cout << "=========================" << std::endl;
 }
 
 void printCrew()
 {
     // TODO Owner
 }
+
+void  printStatus()
+{
+    std::cout << "Мы всем рады" << std::endl;
+}
+
 
 int main()
 {
